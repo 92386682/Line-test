@@ -21,7 +21,7 @@ output = -(Table.getString(x, 0));
 }
 
 function preload () {
-  Table = loadTable ('Funeral Suits Full.csv', 'csv', 'header');
+  Table = loadTable ('Funeral suits full.csv', 'csv', 'header');
 }
 
 
